@@ -1,0 +1,4804 @@
+[
+  {
+    "name": "Bread",
+    "ingredients": [
+      "Flour"
+    ],
+    "cost": 10,
+    "earnings": 1
+  },
+  {
+    "name": "Hot Milk",
+    "ingredients": [
+      "Milk"
+    ],
+    "cost": 30,
+    "earnings": 2
+  },
+  {
+    "name": "Milk Bread",
+    "ingredients": [
+      "Flour",
+      "Milk"
+    ],
+    "cost": 40,
+    "earnings": 4
+  },
+  {
+    "name": "Crackers",
+    "ingredients": [
+      "Flour",
+      "Egg"
+    ],
+    "cost": 310,
+    "earnings": 5
+  },
+  {
+    "name": "Pancakes",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 340,
+    "earnings": 8
+  },
+  {
+    "name": "Cookie",
+    "ingredients": [
+      "Flour",
+      "Sugar"
+    ],
+    "cost": 1000,
+    "earnings": 6
+  },
+  {
+    "name": "Milk Candy",
+    "ingredients": [
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 1000,
+    "earnings": 7
+  },
+  {
+    "name": "Milkcookie",
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 1000,
+    "earnings": 10
+  },
+  {
+    "name": "Meringue",
+    "ingredients": [
+      "Egg",
+      "Sugar"
+    ],
+    "cost": 1300,
+    "earnings": 8
+  },
+  {
+    "name": "Castella",
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Egg"
+    ],
+    "cost": 1300,
+    "earnings": 11
+  },
+  {
+    "name": "Flan",
+    "ingredients": [
+      "Egg",
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 1300,
+    "earnings": 13
+  },
+  {
+    "name": "Scone",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Sugar",
+      "Egg"
+    ],
+    "cost": 1300,
+    "earnings": 16
+  },
+  {
+    "name": "Baked Potato",
+    "ingredients": [
+      "Potato"
+    ],
+    "cost": 10000,
+    "earnings": 12
+  },
+  {
+    "name": "Potato Dumplings",
+    "ingredients": [
+      "Potato",
+      "Flour"
+    ],
+    "cost": 10000,
+    "earnings": 16
+  },
+  {
+    "name": "Mashed Potatoes",
+    "ingredients": [
+      "Potato",
+      "Milk"
+    ],
+    "cost": 10000,
+    "earnings": 17
+  },
+  {
+    "name": "Gnocchi",
+    "ingredients": [
+      "Potato",
+      "Milk",
+      "Flour"
+    ],
+    "cost": 10000,
+    "earnings": 21
+  },
+  {
+    "name": "Crispy Hashbrown EggCup",
+    "ingredients": [
+      "Potato",
+      "Egg"
+    ],
+    "cost": 10300,
+    "earnings": 18
+  },
+  {
+    "name": "Potato Waffle",
+    "ingredients": [
+      "Potato",
+      "Flour",
+      "Egg"
+    ],
+    "cost": 10300,
+    "earnings": 22
+  },
+  {
+    "name": "Potato Souffle",
+    "ingredients": [
+      "Potato",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 10300,
+    "earnings": 24
+  },
+  {
+    "name": "Breakfast Egg Bake",
+    "ingredients": [
+      "Potato",
+      "Flour",
+      "Egg",
+      "Milk"
+    ],
+    "cost": 10300,
+    "earnings": 29
+  },
+  {
+    "name": "Candied Sweet Potatoes",
+    "ingredients": [
+      "Potato",
+      "Sugar"
+    ],
+    "cost": 11000,
+    "earnings": 19
+  },
+  {
+    "name": "Sweet Potato Pancakes",
+    "ingredients": [
+      "Potato",
+      "Sugar",
+      "Flour"
+    ],
+    "cost": 11000,
+    "earnings": 24
+  },
+  {
+    "name": "Sweet Potato Sticks",
+    "ingredients": [
+      "Sugar",
+      "Potato",
+      "Milk"
+    ],
+    "cost": 11000,
+    "earnings": 25
+  },
+  {
+    "name": "Sweet Potato Tart",
+    "ingredients": [
+      "Sugar",
+      "Potato",
+      "Milk",
+      "Flour"
+    ],
+    "cost": 11000,
+    "earnings": 30
+  },
+  {
+    "name": "Mini Sweet Potato Cake",
+    "ingredients": [
+      "Sugar",
+      "Potato",
+      "Egg"
+    ],
+    "cost": 11300,
+    "earnings": 27
+  },
+  {
+    "name": "Potato Omelette",
+    "ingredients": [
+      "Potato",
+      "Egg",
+      "Sugar",
+      "Flour"
+    ],
+    "cost": 11300,
+    "earnings": 32
+  },
+  {
+    "name": "Sweet Potato Cake",
+    "ingredients": [
+      "Sugar",
+      "Potato",
+      "Egg",
+      "Milk"
+    ],
+    "cost": 11300,
+    "earnings": 34
+  },
+  {
+    "name": "Sweet Potato Pie",
+    "ingredients": [
+      "Sugar",
+      "Potato",
+      "Flour",
+      "Egg",
+      "Milk"
+    ],
+    "cost": 11300,
+    "earnings": 40
+  },
+  {
+    "name": "Roasted Carrot",
+    "ingredients": [
+      "Carrot"
+    ],
+    "cost": 80000,
+    "earnings": 25
+  },
+  {
+    "name": "Carrot Fritters",
+    "ingredients": [
+      "Carrot",
+      "Flour"
+    ],
+    "cost": 80000,
+    "earnings": 31
+  },
+  {
+    "name": "Creamy Carrot Soup",
+    "ingredients": [
+      "Carrot",
+      "Milk"
+    ],
+    "cost": 80000,
+    "earnings": 32
+  },
+  {
+    "name": "Carrot Bread",
+    "ingredients": [
+      "Milk",
+      "Carrot",
+      "Flour"
+    ],
+    "cost": 80000,
+    "earnings": 39
+  },
+  {
+    "name": "Carrot Scramble",
+    "ingredients": [
+      "Carrot",
+      "Egg"
+    ],
+    "cost": 80300,
+    "earnings": 34
+  },
+  {
+    "name": "Carrot Steamed Bread",
+    "ingredients": [
+      "Flour",
+      "Carrot",
+      "Egg"
+    ],
+    "cost": 80300,
+    "earnings": 41
+  },
+  {
+    "name": "Carrot Souffle",
+    "ingredients": [
+      "Egg",
+      "Carrot",
+      "Milk"
+    ],
+    "cost": 80300,
+    "earnings": 42
+  },
+  {
+    "name": "Carrot Pancakes",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Carrot"
+    ],
+    "cost": 80300,
+    "earnings": 50
+  },
+  {
+    "name": "Carrot Candy",
+    "ingredients": [
+      "Sugar",
+      "Carrot"
+    ],
+    "cost": 81000,
+    "earnings": 35
+  },
+  {
+    "name": "Carrot Cookie",
+    "ingredients": [
+      "Sugar",
+      "Carrot",
+      "Flour"
+    ],
+    "cost": 81000,
+    "earnings": 42
+  },
+  {
+    "name": "Carrot Milk",
+    "ingredients": [
+      "Sugar",
+      "Carrot",
+      "Milk"
+    ],
+    "cost": 81000,
+    "earnings": 43
+  },
+  {
+    "name": "Carrot Muffin",
+    "ingredients": [
+      "Carrot",
+      "Flour",
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 81000,
+    "earnings": 51
+  },
+  {
+    "name": "Carrot Meringue",
+    "ingredients": [
+      "Carrot",
+      "Sugar",
+      "Egg"
+    ],
+    "cost": 81300,
+    "earnings": 45
+  },
+  {
+    "name": "Carrot Donut",
+    "ingredients": [
+      "Carrot",
+      "Flour",
+      "Sugar",
+      "Egg"
+    ],
+    "cost": 81300,
+    "earnings": 53
+  },
+  {
+    "name": "Carrot Pudding",
+    "ingredients": [
+      "Milk",
+      "Egg",
+      "Carrot",
+      "Sugar"
+    ],
+    "cost": 81300,
+    "earnings": 54
+  },
+  {
+    "name": "Carrot Cake",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Sugar",
+      "Carrot"
+    ],
+    "cost": 81300,
+    "earnings": 63
+  },
+  {
+    "name": "Crispy Veggie HashBrowns",
+    "ingredients": [
+      "Carrot",
+      "Potato"
+    ],
+    "cost": 90000,
+    "earnings": 44
+  },
+  {
+    "name": "Vegetable Mash",
+    "ingredients": [
+      "Potato",
+      "Carrot",
+      "Flour"
+    ],
+    "cost": 90000,
+    "earnings": 53
+  },
+  {
+    "name": "Carrot Potato Soup",
+    "ingredients": [
+      "Carrot",
+      "Potato",
+      "Milk"
+    ],
+    "cost": 90000,
+    "earnings": 55
+  },
+  {
+    "name": "Carrot And Potato Gratin",
+    "ingredients": [
+      "Potato",
+      "Flour",
+      "Carrot",
+      "Milk"
+    ],
+    "cost": 90000,
+    "earnings": 64
+  },
+  {
+    "name": "Hot Salad",
+    "ingredients": [
+      "Potato",
+      "Egg",
+      "Carrot"
+    ],
+    "cost": 90300,
+    "earnings": 56
+  },
+  {
+    "name": "Potage Soup",
+    "ingredients": [
+      "Milk",
+      "Egg",
+      "Carrot",
+      "Potato"
+    ],
+    "cost": 90300,
+    "earnings": 67
+  },
+  {
+    "name": "Tomato Salad",
+    "ingredients": [
+      "Tomato"
+    ],
+    "cost": 300000,
+    "earnings": 60
+  },
+  {
+    "name": "Spaghetti Marinara",
+    "ingredients": [
+      "Flour",
+      "Tomato"
+    ],
+    "cost": 300000,
+    "earnings": 73
+  },
+  {
+    "name": "Caprese",
+    "ingredients": [
+      "Tomato",
+      "Milk"
+    ],
+    "cost": 300000,
+    "earnings": 74
+  },
+  {
+    "name": "Creamy Tomato Soup",
+    "ingredients": [
+      "Tomato",
+      "Milk",
+      "Flour"
+    ],
+    "cost": 300000,
+    "earnings": 88
+  },
+  {
+    "name": "StirFried Tomatoes and Eggs",
+    "ingredients": [
+      "Tomato",
+      "Egg"
+    ],
+    "cost": 300300,
+    "earnings": 76
+  },
+  {
+    "name": "Egg Sandwich",
+    "ingredients": [
+      "Flour",
+      "Tomato",
+      "Egg"
+    ],
+    "cost": 300300,
+    "earnings": 90
+  },
+  {
+    "name": "Omelette",
+    "ingredients": [
+      "Tomato",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 300300,
+    "earnings": 91
+  },
+  {
+    "name": "Tomato Pancakes",
+    "ingredients": [
+      "Tomato",
+      "Flour",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 300300,
+    "earnings": 106
+  },
+  {
+    "name": "Tomato Candy",
+    "ingredients": [
+      "Tomato",
+      "Sugar"
+    ],
+    "cost": 301000,
+    "earnings": 77
+  },
+  {
+    "name": "Tomato Cookie",
+    "ingredients": [
+      "Tomato",
+      "Flour",
+      "Sugar"
+    ],
+    "cost": 301000,
+    "earnings": 91
+  },
+  {
+    "name": "Tomato Milk",
+    "ingredients": [
+      "Sugar",
+      "Tomato",
+      "Milk"
+    ],
+    "cost": 301000,
+    "earnings": 92
+  },
+  {
+    "name": "Tomato Milk Cookie",
+    "ingredients": [
+      "Tomato",
+      "Flour",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 301000,
+    "earnings": 107
+  },
+  {
+    "name": "Tomato Donut",
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Egg",
+      "Tomato"
+    ],
+    "cost": 301300,
+    "earnings": 109
+  },
+  {
+    "name": "Tomato Pudding",
+    "ingredients": [
+      "Tomato",
+      "Sugar",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 301300,
+    "earnings": 110
+  },
+  {
+    "name": "Tomato Cake",
+    "ingredients": [
+      "Sugar",
+      "Tomato",
+      "Milk",
+      "Flour",
+      "Egg"
+    ],
+    "cost": 301300,
+    "earnings": 126
+  },
+  {
+    "name": "Baked Potatoes And Tomatoes",
+    "ingredients": [
+      "Potato",
+      "Tomato"
+    ],
+    "cost": 310000,
+    "earnings": 86
+  },
+  {
+    "name": "French Fries",
+    "ingredients": [
+      "Potato",
+      "Tomato",
+      "Flour"
+    ],
+    "cost": 310000,
+    "earnings": 102
+  },
+  {
+    "name": "Potato and Tomato Gratin",
+    "ingredients": [
+      "Tomato",
+      "Potato",
+      "Milk"
+    ],
+    "cost": 310000,
+    "earnings": 104
+  },
+  {
+    "name": "Tomato Potage Soup",
+    "ingredients": [
+      "Tomato",
+      "Flour",
+      "Milk",
+      "Potato"
+    ],
+    "cost": 310000,
+    "earnings": 120
+  },
+  {
+    "name": "Hash With Potatoes And Tomatoes",
+    "ingredients": [
+      "Potato",
+      "Tomato",
+      "Egg"
+    ],
+    "cost": 310300,
+    "earnings": 105
+  },
+  {
+    "name": "Tomato Souffle",
+    "ingredients": [
+      "Tomato",
+      "Potato",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 310300,
+    "earnings": 123
+  },
+  {
+    "name": "Marinated Tomato and Carrot",
+    "ingredients": [
+      "Tomato",
+      "Carrot"
+    ],
+    "cost": 380000,
+    "earnings": 102
+  },
+  {
+    "name": "Tomato Bread",
+    "ingredients": [
+      "Tomato",
+      "Flour",
+      "Carrot"
+    ],
+    "cost": 380000,
+    "earnings": 120
+  },
+  {
+    "name": "Tomato and Carrot CreamSoup",
+    "ingredients": [
+      "Tomato",
+      "Carrot",
+      "Milk"
+    ],
+    "cost": 380000,
+    "earnings": 122
+  },
+  {
+    "name": "Carrot Fritters with Cheese",
+    "ingredients": [
+      "Tomato",
+      "Flour",
+      "Milk",
+      "Carrot"
+    ],
+    "cost": 380000,
+    "earnings": 141
+  },
+  {
+    "name": "Veggie Potato Pancakes",
+    "ingredients": [
+      "Potato",
+      "Tomato",
+      "Carrot",
+      "Flour"
+    ],
+    "cost": 390000,
+    "earnings": 157
+  },
+  {
+    "name": "Vegetable and Egg Soup",
+    "ingredients": [
+      "Tomato",
+      "Potato",
+      "Carrot",
+      "Egg"
+    ],
+    "cost": 390300,
+    "earnings": 160
+  },
+  {
+    "name": "Vegetable Breads",
+    "ingredients": [
+      "Tomato",
+      "Potato",
+      "Carrot",
+      "Egg",
+      "Milk",
+      "Flour"
+    ],
+    "cost": 390300,
+    "earnings": 206
+  },
+  {
+    "name": "Vegetable Cookies",
+    "ingredients": [
+      "Tomato",
+      "Potato",
+      "Carrot",
+      "Sugar",
+      "Flour"
+    ],
+    "cost": 391000,
+    "earnings": 184
+  },
+  {
+    "name": "Green Salad",
+    "ingredients": [
+      "Lettuce"
+    ],
+    "cost": 2000000,
+    "earnings": 100
+  },
+  {
+    "name": "Lettuce Sandwich",
+    "ingredients": [
+      "Lettuce",
+      "Flour"
+    ],
+    "cost": 2000000,
+    "earnings": 121
+  },
+  {
+    "name": "Caesar Salad",
+    "ingredients": [
+      "Lettuce",
+      "Milk"
+    ],
+    "cost": 2000000,
+    "earnings": 122
+  },
+  {
+    "name": "Green Cream Soup",
+    "ingredients": [
+      "Lettuce",
+      "Milk",
+      "Flour"
+    ],
+    "cost": 2000000,
+    "earnings": 144
+  },
+  {
+    "name": "Egg Salad",
+    "ingredients": [
+      "Lettuce",
+      "Egg"
+    ],
+    "cost": 2000000,
+    "earnings": 124
+  },
+  {
+    "name": "Vegetable Crackers",
+    "ingredients": [
+      "Lettuce",
+      "Flour",
+      "Egg"
+    ],
+    "cost": 2000000,
+    "earnings": 146
+  },
+  {
+    "name": "Lettuce Scramble",
+    "ingredients": [
+      "Lettuce",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 2000000,
+    "earnings": 147
+  },
+  {
+    "name": "Vegetable Pancakes",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Lettuce"
+    ],
+    "cost": 2000000,
+    "earnings": 170
+  },
+  {
+    "name": "Lettuce Candy",
+    "ingredients": [
+      "Sugar",
+      "Lettuce"
+    ],
+    "cost": 2000000,
+    "earnings": 125
+  },
+  {
+    "name": "Vegetable Churros",
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Lettuce"
+    ],
+    "cost": 2000000,
+    "earnings": 147
+  },
+  {
+    "name": "Lettuce Milk",
+    "ingredients": [
+      "Lettuce",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 2000000,
+    "earnings": 148
+  },
+  {
+    "name": "Vegetable Muffin",
+    "ingredients": [
+      "Lettuce",
+      "Flour",
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 2000000,
+    "earnings": 171
+  },
+  {
+    "name": "Lettuce Meringue",
+    "ingredients": [
+      "Lettuce",
+      "Egg",
+      "Sugar"
+    ],
+    "cost": 2000000,
+    "earnings": 150
+  },
+  {
+    "name": "Vegetable Donut",
+    "ingredients": [
+      "Lettuce",
+      "Flour",
+      "Sugar",
+      "Egg"
+    ],
+    "cost": 2000000,
+    "earnings": 173
+  },
+  {
+    "name": "Lettuce Pudding",
+    "ingredients": [
+      "Lettuce",
+      "Egg",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 2000000,
+    "earnings": 174
+  },
+  {
+    "name": "Vegetable Cake",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Sugar",
+      "Lettuce"
+    ],
+    "cost": 2000000,
+    "earnings": 198
+  },
+  {
+    "name": "Potato Salad",
+    "ingredients": [
+      "Lettuce",
+      "Potato"
+    ],
+    "cost": 2000000,
+    "earnings": 134
+  },
+  {
+    "name": "CrispyPotatoStraws",
+    "ingredients": [
+      "Potato",
+      "Flour",
+      "Lettuce"
+    ],
+    "cost": 2000000,
+    "earnings": 158
+  },
+  {
+    "name": "Green Potage",
+    "ingredients": [
+      "Lettuce",
+      "Potato",
+      "Milk"
+    ],
+    "cost": 2000000,
+    "earnings": 160
+  },
+  {
+    "name": "Vegetable Gratin",
+    "ingredients": [
+      "Lettuce",
+      "Potato",
+      "Milk",
+      "Flour"
+    ],
+    "cost": 2000000,
+    "earnings": 184
+  },
+  {
+    "name": "Green Mash Potato",
+    "ingredients": [
+      "Lettuce",
+      "Egg",
+      "Potato"
+    ],
+    "cost": 2000000,
+    "earnings": 161
+  },
+  {
+    "name": "Lettuce Souffle",
+    "ingredients": [
+      "Lettuce",
+      "Egg",
+      "Milk",
+      "Potato"
+    ],
+    "cost": 2000000,
+    "earnings": 187
+  },
+  {
+    "name": "Carrot Salad",
+    "ingredients": [
+      "Lettuce",
+      "Carrot"
+    ],
+    "cost": 2100000,
+    "earnings": 150
+  },
+  {
+    "name": "Vegetable Fritters",
+    "ingredients": [
+      "Lettuce",
+      "Flour",
+      "Carrot"
+    ],
+    "cost": 2100000,
+    "earnings": 176
+  },
+  {
+    "name": "Lettuce and Carrot Soup",
+    "ingredients": [
+      "Lettuce",
+      "Milk",
+      "Carrot"
+    ],
+    "cost": 2100000,
+    "earnings": 178
+  },
+  {
+    "name": "Lettuce Bread",
+    "ingredients": [
+      "Lettuce",
+      "Flour",
+      "Milk",
+      "Carrot"
+    ],
+    "cost": 2100000,
+    "earnings": 205
+  },
+  {
+    "name": "Vegetable Soup",
+    "ingredients": [
+      "Lettuce",
+      "Carrot",
+      "Potato"
+    ],
+    "cost": 2100000,
+    "earnings": 192
+  },
+  {
+    "name": "Tomato Lettuce Salad",
+    "ingredients": [
+      "Lettuce",
+      "Tomato"
+    ],
+    "cost": 2300000,
+    "earnings": 192
+  },
+  {
+    "name": "Veggie Sandwich",
+    "ingredients": [
+      "Flour",
+      "Tomato",
+      "Lettuce"
+    ],
+    "cost": 2300000,
+    "earnings": 225
+  },
+  {
+    "name": "Greek Salad",
+    "ingredients": [
+      "Lettuce",
+      "Milk",
+      "Tomato"
+    ],
+    "cost": 2300000,
+    "earnings": 227
+  },
+  {
+    "name": "Pizza Toast",
+    "ingredients": [
+      "Lettuce",
+      "Milk",
+      "Tomato",
+      "Flour"
+    ],
+    "cost": 2300000,
+    "earnings": 261
+  },
+  {
+    "name": "Baked Tomatoes and Eggs",
+    "ingredients": [
+      "Lettuce",
+      "Egg",
+      "Tomato"
+    ],
+    "cost": 2300000,
+    "earnings": 228
+  },
+  {
+    "name": "Green Omelette",
+    "ingredients": [
+      "Lettuce",
+      "Tomato",
+      "Egg",
+      "Milk"
+    ],
+    "cost": 2300000,
+    "earnings": 264
+  },
+  {
+    "name": "Candy Salad",
+    "ingredients": [
+      "Sugar",
+      "Lettuce",
+      "Tomato"
+    ],
+    "cost": 2300000,
+    "earnings": 230
+  },
+  {
+    "name": "Special Tomato Donut",
+    "ingredients": [
+      "Egg",
+      "Flour",
+      "Sugar",
+      "Tomato",
+      "Lettuce"
+    ],
+    "cost": 2300000,
+    "earnings": 302
+  },
+  {
+    "name": "Scrambled Eggs with Vegetable",
+    "ingredients": [
+      "Lettuce",
+      "Egg",
+      "Potato",
+      "Tomato"
+    ],
+    "cost": 2300000,
+    "earnings": 280
+  },
+  {
+    "name": "Vegetable Juice",
+    "ingredients": [
+      "Carrot",
+      "Tomato",
+      "Lettuce"
+    ],
+    "cost": 2400000,
+    "earnings": 259
+  },
+  {
+    "name": "Mix Salad",
+    "ingredients": [
+      "Lettuce",
+      "Carrot",
+      "Tomato",
+      "Egg"
+    ],
+    "cost": 2400000,
+    "earnings": 301
+  },
+  {
+    "name": "Vegetable Salad Lettuce Wraps",
+    "ingredients": [
+      "Lettuce",
+      "Potato",
+      "Carrot",
+      "Tomato"
+    ],
+    "cost": 2400000,
+    "earnings": 315
+  },
+  {
+    "name": "Vegetable Pizza",
+    "ingredients": [
+      "Flour",
+      "Tomato",
+      "Lettuce",
+      "Carrot",
+      "Potato"
+    ],
+    "cost": 2400000,
+    "earnings": 356
+  },
+  {
+    "name": "Steak",
+    "ingredients": [
+      "Meat"
+    ],
+    "cost": 10000000,
+    "earnings": 200
+  },
+  {
+    "name": "Hotdog",
+    "ingredients": [
+      "Meat",
+      "Flour"
+    ],
+    "cost": 10000000,
+    "earnings": 241
+  },
+  {
+    "name": "Steak with Butter",
+    "ingredients": [
+      "Meat",
+      "Milk"
+    ],
+    "cost": 10000000,
+    "earnings": 242
+  },
+  {
+    "name": "Ham and Cheese Sandwich",
+    "ingredients": [
+      "Meat",
+      "Milk",
+      "Flour"
+    ],
+    "cost": 10000000,
+    "earnings": 284
+  },
+  {
+    "name": "Bacon And Eggs",
+    "ingredients": [
+      "Meat",
+      "Egg"
+    ],
+    "cost": 10000000,
+    "earnings": 244
+  },
+  {
+    "name": "Chicken Nuggets",
+    "ingredients": [
+      "Meat",
+      "Flour",
+      "Egg"
+    ],
+    "cost": 10000000,
+    "earnings": 286
+  },
+  {
+    "name": "HamEgg and Cheese",
+    "ingredients": [
+      "Meat",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 10000000,
+    "earnings": 287
+  },
+  {
+    "name": "Carbonara",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Milk",
+      "Meat"
+    ],
+    "cost": 10000000,
+    "earnings": 330
+  },
+  {
+    "name": "Candied Steak",
+    "ingredients": [
+      "Meat",
+      "Sugar"
+    ],
+    "cost": 10000000,
+    "earnings": 245
+  },
+  {
+    "name": "Meat Cake",
+    "ingredients": [
+      "Egg",
+      "Flour",
+      "Sugar",
+      "Milk",
+      "Meat"
+    ],
+    "cost": 10000000,
+    "earnings": 378
+  },
+  {
+    "name": "Beef Skewers",
+    "ingredients": [
+      "Meat",
+      "Potato"
+    ],
+    "cost": 10000000,
+    "earnings": 254
+  },
+  {
+    "name": "Sausage and Fries",
+    "ingredients": [
+      "Meat",
+      "Potato",
+      "Flour"
+    ],
+    "cost": 10000000,
+    "earnings": 298
+  },
+  {
+    "name": "Potato Soup",
+    "ingredients": [
+      "Potato",
+      "Meat",
+      "Milk"
+    ],
+    "cost": 10000000,
+    "earnings": 300
+  },
+  {
+    "name": "Pork Pie",
+    "ingredients": [
+      "Flour",
+      "Meat",
+      "Egg",
+      "Potato"
+    ],
+    "cost": 10000000,
+    "earnings": 346
+  },
+  {
+    "name": "Chicken Skewers",
+    "ingredients": [
+      "Meat",
+      "Carrot"
+    ],
+    "cost": 10100000,
+    "earnings": 270
+  },
+  {
+    "name": "Rice Ball",
+    "ingredients": [
+      "Rice"
+    ],
+    "cost": 2500,
+    "earnings": 9
+  },
+  {
+    "name": "Cheese Risotto",
+    "ingredients": [
+      "Rice",
+      "Milk"
+    ],
+    "cost": 2500,
+    "earnings": 11
+  },
+  {
+    "name": "Tamago Sushi",
+    "ingredients": [
+      "Rice",
+      "Egg"
+    ],
+    "cost": 2800,
+    "earnings": 13
+  },
+  {
+    "name": "Rice Pudding",
+    "ingredients": [
+      "Rice",
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 3500,
+    "earnings": 16
+  },
+  {
+    "name": "Arancini",
+    "ingredients": [
+      "Rice",
+      "Tomato",
+      "Egg",
+      "Milk",
+      "Flour"
+    ],
+    "cost": 302800,
+    "earnings": 76
+  },
+  {
+    "name": "Fried Rice",
+    "ingredients": [
+      "Rice",
+      "Meat",
+      "Carrot",
+      "Egg"
+    ],
+    "cost": 10100000,
+    "earnings": 238
+  },
+  {
+    "name": "Curry Rice",
+    "ingredients": [
+      "Rice",
+      "Meat",
+      "Carrot",
+      "Potato",
+      "Flour"
+    ],
+    "cost": 10100000,
+    "earnings": 247
+  },
+  {
+    "name": "Nasi Goreng",
+    "ingredients": [
+      "Rice",
+      "Meat",
+      "Tomato",
+      "Egg"
+    ],
+    "cost": 10300000,
+    "earnings": 273
+  },
+  {
+    "name": "Gapao Rice",
+    "ingredients": [
+      "Rice",
+      "Meat",
+      "Lettuce",
+      "Egg"
+    ],
+    "cost": 12000000,
+    "earnings": 313
+  },
+  {
+    "name": "Bibimbap",
+    "ingredients": [
+      "Rice",
+      "Meat",
+      "Lettuce",
+      "Egg",
+      "Carrot"
+    ],
+    "cost": 12100000,
+    "earnings": 338
+  },
+  {
+    "name": "Khao Man Gai",
+    "ingredients": [
+      "Rice",
+      "Meat",
+      "Lettuce",
+      "Tomato"
+    ],
+    "cost": 12300000,
+    "earnings": 369
+  },
+  {
+    "name": "Taco Rice",
+    "ingredients": [
+      "Rice",
+      "Meat",
+      "Lettuce",
+      "Tomato",
+      "Milk"
+    ],
+    "cost": 12300000,
+    "earnings": 371
+  },
+  {
+    "name": "Beef Rendang",
+    "ingredients": [
+      "Rice",
+      "Lemon",
+      "Meat"
+    ],
+    "cost": 40000000,
+    "earnings": 509
+  },
+  {
+    "name": "Chocolate Rice Pudding",
+    "ingredients": [
+      "Rice",
+      "Cacao",
+      "Banana",
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 10500000000,
+    "earnings": 3800
+  },
+  {
+    "name": "Sushi",
+    "ingredients": [
+      "Rice",
+      "Fish"
+    ],
+    "cost": 70000000000,
+    "earnings": 5000
+  },
+  {
+    "name": "California Roll",
+    "ingredients": [
+      "Rice",
+      "Fish",
+      "Lettuce",
+      "Egg"
+    ],
+    "cost": 70000000000,
+    "earnings": 5100
+  },
+  {
+    "name": "Sushi Roll",
+    "ingredients": [
+      "Rice",
+      "Fish",
+      "Lettuce",
+      "Egg",
+      "Meat",
+      "Carrot"
+    ],
+    "cost": 70000000000,
+    "earnings": 5300
+  },
+  {
+    "name": "Salmon Sushi",
+    "ingredients": [
+      "Rice",
+      "Fish",
+      "Lemon"
+    ],
+    "cost": 70000000000,
+    "earnings": 5300
+  },
+  {
+    "name": "Thai Fried Rice",
+    "ingredients": [
+      "Rice",
+      "Fish",
+      "Lemon",
+      "Egg"
+    ],
+    "cost": 70000000000,
+    "earnings": 5300
+  },
+  {
+    "name": "Squid Ink Paella",
+    "ingredients": [
+      "Rice",
+      "Fish",
+      "Lemon",
+      "Tomato"
+    ],
+    "cost": 70000000000,
+    "earnings": 5400
+  },
+  {
+    "name": "Paella",
+    "ingredients": [
+      "Rice",
+      "Fish",
+      "Lemon",
+      "Tomato",
+      "Meat"
+    ],
+    "cost": 70000000000,
+    "earnings": 5600
+  },
+  {
+    "name": "Pho",
+    "ingredients": [
+      "Rice",
+      "Fish",
+      "Lemon",
+      "Meat",
+      "Lettuce"
+    ],
+    "cost": 70000000000,
+    "earnings": 5600
+  },
+  {
+    "name": "Inari Sushi",
+    "ingredients": [
+      "Rice",
+      "Bean",
+      "Carrot",
+      "Sugar"
+    ],
+    "cost": 150000000000,
+    "earnings": 6500
+  },
+  {
+    "name": "Feijoada",
+    "ingredients": [
+      "Rice",
+      "Bean",
+      "Meat"
+    ],
+    "cost": 150000000000,
+    "earnings": 6700
+  },
+  {
+    "name": "Sushi Set",
+    "ingredients": [
+      "Rice",
+      "Bean",
+      "Fish",
+      "Egg"
+    ],
+    "cost": 220000000000,
+    "earnings": 11500
+  },
+  {
+    "name": "Fresh Spring Rolls",
+    "ingredients": [
+      "Rice",
+      "Bean",
+      "Fish",
+      "Lettuce"
+    ],
+    "cost": 220000000000,
+    "earnings": 11600
+  },
+  {
+    "name": "Pad Thai",
+    "ingredients": [
+      "Rice",
+      "Bean",
+      "Fish",
+      "Lettuce",
+      "Lemon"
+    ],
+    "cost": 220000000000,
+    "earnings": 11900
+  },
+  {
+    "name": "Carrot and Ham Sandwich",
+    "ingredients": [
+      "Meat",
+      "Carrot",
+      "Flour"
+    ],
+    "cost": 10100000,
+    "earnings": 316
+  },
+  {
+    "name": "Meat Carrot Cheese Stir Fry",
+    "ingredients": [
+      "Meat",
+      "Milk",
+      "Carrot"
+    ],
+    "cost": 10100000,
+    "earnings": 318
+  },
+  {
+    "name": "Carrot Soup",
+    "ingredients": [
+      "Carrot",
+      "Potato",
+      "Meat"
+    ],
+    "cost": 10100000,
+    "earnings": 332
+  },
+  {
+    "name": "Cream Stew",
+    "ingredients": [
+      "Carrot",
+      "Potato",
+      "Meat",
+      "Milk",
+      "Flour"
+    ],
+    "cost": 10100000,
+    "earnings": 432
+  },
+  {
+    "name": "Frank Furter",
+    "ingredients": [
+      "Tomato",
+      "Meat"
+    ],
+    "cost": 10300000,
+    "earnings": 312
+  },
+  {
+    "name": "Salami Pizza",
+    "ingredients": [
+      "Flour",
+      "Tomato",
+      "Meat"
+    ],
+    "cost": 10300000,
+    "earnings": 365
+  },
+  {
+    "name": "Cheesy Hamburger Steak",
+    "ingredients": [
+      "Meat",
+      "Milk",
+      "Tomato"
+    ],
+    "cost": 10300000,
+    "earnings": 367
+  },
+  {
+    "name": "Meatballs",
+    "ingredients": [
+      "Meat",
+      "Flour",
+      "Egg",
+      "Tomato"
+    ],
+    "cost": 10300000,
+    "earnings": 422
+  },
+  {
+    "name": "Lasagna",
+    "ingredients": [
+      "Milk",
+      "Egg",
+      "Tomato",
+      "Meat"
+    ],
+    "cost": 10300000,
+    "earnings": 424
+  },
+  {
+    "name": "Spaghetti And Meatballs",
+    "ingredients": [
+      "Flour",
+      "Tomato",
+      "Meat",
+      "Egg",
+      "Milk"
+    ],
+    "cost": 10300000,
+    "earnings": 479
+  },
+  {
+    "name": "Tomato Soup",
+    "ingredients": [
+      "Tomato",
+      "Potato",
+      "Meat"
+    ],
+    "cost": 10300000,
+    "earnings": 381
+  },
+  {
+    "name": "Chicken Nuggets And Fries Set",
+    "ingredients": [
+      "Meat",
+      "Flour",
+      "Egg",
+      "Tomato",
+      "Potato"
+    ],
+    "cost": 10300000,
+    "earnings": 497
+  },
+  {
+    "name": "Minestrone",
+    "ingredients": [
+      "Tomato",
+      "Carrot",
+      "Potato",
+      "Meat"
+    ],
+    "cost": 10400000,
+    "earnings": 475
+  },
+  {
+    "name": "Steak Salad",
+    "ingredients": [
+      "Meat",
+      "Lettuce"
+    ],
+    "cost": 12000000,
+    "earnings": 360
+  },
+  {
+    "name": "Spaghetti Aglio E Olio",
+    "ingredients": [
+      "Flour",
+      "Meat",
+      "Lettuce"
+    ],
+    "cost": 12000000,
+    "earnings": 421
+  },
+  {
+    "name": "Pork Steak Set",
+    "ingredients": [
+      "Meat",
+      "Milk",
+      "Lettuce"
+    ],
+    "cost": 12000000,
+    "earnings": 423
+  },
+  {
+    "name": "Chicken Salad",
+    "ingredients": [
+      "Lettuce",
+      "Tomato",
+      "Meat"
+    ],
+    "cost": 12300000,
+    "earnings": 504
+  },
+  {
+    "name": "BLT Sandwich",
+    "ingredients": [
+      "Flour",
+      "Meat",
+      "Tomato",
+      "Lettuce"
+    ],
+    "cost": 12300000,
+    "earnings": 578
+  },
+  {
+    "name": "Salisbury Steak",
+    "ingredients": [
+      "Flour",
+      "Meat",
+      "Lettuce",
+      "Milk",
+      "Tomato"
+    ],
+    "cost": 12300000,
+    "earnings": 653
+  },
+  {
+    "name": "Burger",
+    "ingredients": [
+      "Flour",
+      "Meat",
+      "Tomato",
+      "Lettuce",
+      "Egg"
+    ],
+    "cost": 12300000,
+    "earnings": 655
+  },
+  {
+    "name": "Cheeseburger",
+    "ingredients": [
+      "Flour",
+      "Meat",
+      "Tomato",
+      "Lettuce",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 12300000,
+    "earnings": 723
+  },
+  {
+    "name": "Thanks Giving Turkey",
+    "ingredients": [
+      "Meat",
+      "Tomato",
+      "Potato",
+      "Lettuce"
+    ],
+    "cost": 12300000,
+    "earnings": 595
+  },
+  {
+    "name": "Club Sandwich",
+    "ingredients": [
+      "Flour",
+      "Meat",
+      "Tomato",
+      "Lettuce",
+      "Potato"
+    ],
+    "cost": 12300000,
+    "earnings": 671
+  },
+  {
+    "name": "Lemonade",
+    "ingredients": [
+      "Lemon"
+    ],
+    "cost": 30000000,
+    "earnings": 300
+  },
+  {
+    "name": "Lemon Toast",
+    "ingredients": [
+      "Lemon",
+      "Flour"
+    ],
+    "cost": 30000000,
+    "earnings": 361
+  },
+  {
+    "name": "Lemon Milk",
+    "ingredients": [
+      "Lemon",
+      "Milk"
+    ],
+    "cost": 30000000,
+    "earnings": 362
+  },
+  {
+    "name": "Lemon Meringue Pie",
+    "ingredients": [
+      "Lemon",
+      "Flour",
+      "Egg"
+    ],
+    "cost": 30000000,
+    "earnings": 426
+  },
+  {
+    "name": "Milkshake",
+    "ingredients": [
+      "Lemon",
+      "Egg",
+      "Milk"
+    ],
+    "cost": 30000000,
+    "earnings": 427
+  },
+  {
+    "name": "Lemon Macaron",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Lemon"
+    ],
+    "cost": 30000000,
+    "earnings": 490
+  },
+  {
+    "name": "Lemon Candy",
+    "ingredients": [
+      "Sugar",
+      "Lemon"
+    ],
+    "cost": 30000000,
+    "earnings": 365
+  },
+  {
+    "name": "Lemon Churros",
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Lemon"
+    ],
+    "cost": 30000000,
+    "earnings": 427
+  },
+  {
+    "name": "Milk Popsicle",
+    "ingredients": [
+      "Milk",
+      "Lemon",
+      "Sugar"
+    ],
+    "cost": 30000000,
+    "earnings": 428
+  },
+  {
+    "name": "Lemon Muffin",
+    "ingredients": [
+      "Lemon",
+      "Flour",
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 30000000,
+    "earnings": 491
+  },
+  {
+    "name": "Lemon Donut",
+    "ingredients": [
+      "Lemon",
+      "Flour",
+      "Sugar",
+      "Egg"
+    ],
+    "cost": 30000000,
+    "earnings": 493
+  },
+  {
+    "name": "Vanilla Softserve",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Egg",
+      "Lemon"
+    ],
+    "cost": 30000000,
+    "earnings": 494
+  },
+  {
+    "name": "Lemon Cake",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Sugar",
+      "Lemon"
+    ],
+    "cost": 30000000,
+    "earnings": 558
+  },
+  {
+    "name": "Sweet Potato Donuts",
+    "ingredients": [
+      "Potato",
+      "Sugar",
+      "Flour",
+      "Lemon"
+    ],
+    "cost": 30000000,
+    "earnings": 507
+  },
+  {
+    "name": "Potato Icecream",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Lemon",
+      "Potato"
+    ],
+    "cost": 30000000,
+    "earnings": 509
+  },
+  {
+    "name": "Carrot Juice",
+    "ingredients": [
+      "Lemon",
+      "Carrot"
+    ],
+    "cost": 30100000,
+    "earnings": 390
+  },
+  {
+    "name": "Orange Macaron",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Carrot",
+      "Lemon"
+    ],
+    "cost": 30100000,
+    "earnings": 596
+  },
+  {
+    "name": "Carrot Popsicle",
+    "ingredients": [
+      "Carrot",
+      "Lemon",
+      "Sugar"
+    ],
+    "cost": 30100000,
+    "earnings": 461
+  },
+  {
+    "name": "Carrot Pie",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Sugar",
+      "Carrot",
+      "Lemon"
+    ],
+    "cost": 30100000,
+    "earnings": 599
+  },
+  {
+    "name": "Carrot Icecream",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Egg",
+      "Carrot",
+      "Lemon"
+    ],
+    "cost": 30100000,
+    "earnings": 601
+  },
+  {
+    "name": "Special Carrot Cake",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Sugar",
+      "Carrot",
+      "Lemon"
+    ],
+    "cost": 30100000,
+    "earnings": 670
+  },
+  {
+    "name": "Tomato Juice",
+    "ingredients": [
+      "Lemon",
+      "Tomato"
+    ],
+    "cost": 30300000,
+    "earnings": 432
+  },
+  {
+    "name": "Tomato Popsicle",
+    "ingredients": [
+      "Tomato",
+      "Lemon",
+      "Sugar"
+    ],
+    "cost": 30300000,
+    "earnings": 510
+  },
+  {
+    "name": "Tomato Icecream",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Tomato",
+      "Lemon"
+    ],
+    "cost": 30300000,
+    "earnings": 586
+  },
+  {
+    "name": "Green Smoothie",
+    "ingredients": [
+      "Lemon",
+      "Lettuce"
+    ],
+    "cost": 32000000,
+    "earnings": 480
+  },
+  {
+    "name": "Vegetable Macaron",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Lettuce",
+      "Lemon"
+    ],
+    "cost": 32000000,
+    "earnings": 731
+  },
+  {
+    "name": "Green Popsicle",
+    "ingredients": [
+      "Lettuce",
+      "Lemon",
+      "Sugar"
+    ],
+    "cost": 32000000,
+    "earnings": 566
+  },
+  {
+    "name": "Green Meringue",
+    "ingredients": [
+      "Lettuce",
+      "Sugar",
+      "Egg",
+      "Lemon"
+    ],
+    "cost": 32000000,
+    "earnings": 651
+  },
+  {
+    "name": "Vegetable Pie",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Sugar",
+      "Lettuce",
+      "Lemon"
+    ],
+    "cost": 32000000,
+    "earnings": 734
+  },
+  {
+    "name": "Lettuce Icecream",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Egg",
+      "Lettuce",
+      "Lemon"
+    ],
+    "cost": 32000000,
+    "earnings": 736
+  },
+  {
+    "name": "Karaage",
+    "ingredients": [
+      "Lemon",
+      "Flour",
+      "Meat",
+      "Lettuce"
+    ],
+    "cost": 42000000,
+    "earnings": 962
+  },
+  {
+    "name": "Roast Beef Salad",
+    "ingredients": [
+      "Lettuce",
+      "Meat",
+      "Tomato",
+      "Lemon"
+    ],
+    "cost": 42300000,
+    "earnings": 1100
+  },
+  {
+    "name": "Taco",
+    "ingredients": [
+      "Flour",
+      "Meat",
+      "Tomato",
+      "Lettuce",
+      "Lemon"
+    ],
+    "cost": 42300000,
+    "earnings": 1200
+  },
+  {
+    "name": "Strawberry Juice",
+    "ingredients": [
+      "Strawberry"
+    ],
+    "cost": 100000000,
+    "earnings": 500
+  },
+  {
+    "name": "Strawberry Toast",
+    "ingredients": [
+      "Strawberry",
+      "Flour"
+    ],
+    "cost": 100000000,
+    "earnings": 601
+  },
+  {
+    "name": "Strawberry Milk",
+    "ingredients": [
+      "Milk",
+      "Strawberry"
+    ],
+    "cost": 100000000,
+    "earnings": 602
+  },
+  {
+    "name": "Strawberry Mochi",
+    "ingredients": [
+      "Strawberry",
+      "Flour",
+      "Milk"
+    ],
+    "cost": 100000000,
+    "earnings": 704
+  },
+  {
+    "name": "Strawberry Macaron",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Strawberry"
+    ],
+    "cost": 100000000,
+    "earnings": 810
+  },
+  {
+    "name": "Strawberry Candy",
+    "ingredients": [
+      "Sugar",
+      "Strawberry"
+    ],
+    "cost": 100000000,
+    "earnings": 605
+  },
+  {
+    "name": "Strawberry Churros",
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Strawberry"
+    ],
+    "cost": 100000000,
+    "earnings": 707
+  },
+  {
+    "name": "Strawberry Muffin",
+    "ingredients": [
+      "Strawberry",
+      "Flour",
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 100000000,
+    "earnings": 811
+  },
+  {
+    "name": "Strawberry Meringue",
+    "ingredients": [
+      "Strawberry",
+      "Sugar",
+      "Egg"
+    ],
+    "cost": 100000000,
+    "earnings": 710
+  },
+  {
+    "name": "Strawberry Donut",
+    "ingredients": [
+      "Strawberry",
+      "Flour",
+      "Sugar",
+      "Egg"
+    ],
+    "cost": 100000000,
+    "earnings": 813
+  },
+  {
+    "name": "Strawberry Milkshake",
+    "ingredients": [
+      "Strawberry",
+      "Milk",
+      "Egg",
+      "Sugar"
+    ],
+    "cost": 100000000,
+    "earnings": 814
+  },
+  {
+    "name": "Strawberry Cake",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Sugar",
+      "Strawberry"
+    ],
+    "cost": 100000000,
+    "earnings": 918
+  },
+  {
+    "name": "Strawberry Popsicle",
+    "ingredients": [
+      "Strawberry",
+      "Lemon",
+      "Sugar"
+    ],
+    "cost": 130000000,
+    "earnings": 1100
+  },
+  {
+    "name": "Turkish Delight",
+    "ingredients": [
+      "Sugar",
+      "Lemon",
+      "Milk",
+      "Strawberry"
+    ],
+    "cost": 130000000,
+    "earnings": 1300
+  },
+  {
+    "name": "Strawberry Lemon Meringue",
+    "ingredients": [
+      "Strawberry",
+      "Sugar",
+      "Egg",
+      "Lemon"
+    ],
+    "cost": 130000000,
+    "earnings": 1300
+  },
+  {
+    "name": "Strawberry Softserve",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Egg",
+      "Lemon",
+      "Strawberry"
+    ],
+    "cost": 130000000,
+    "earnings": 1500
+  },
+  {
+    "name": "Banana Toast",
+    "ingredients": [
+      "Banana",
+      "Flour"
+    ],
+    "cost": 500000000,
+    "earnings": 901
+  },
+  {
+    "name": "Banana Milk",
+    "ingredients": [
+      "Milk",
+      "Banana"
+    ],
+    "cost": 500000000,
+    "earnings": 902
+  },
+  {
+    "name": "Banana Bread",
+    "ingredients": [
+      "Banana",
+      "Flour",
+      "Milk"
+    ],
+    "cost": 500000000,
+    "earnings": 1100
+  },
+  {
+    "name": "Banana Pancakes",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Banana"
+    ],
+    "cost": 500000000,
+    "earnings": 1200
+  },
+  {
+    "name": "Banana Candy",
+    "ingredients": [
+      "Sugar",
+      "Banana"
+    ],
+    "cost": 500000000,
+    "earnings": 905
+  },
+  {
+    "name": "Banana Churros",
+    "ingredients": [
+      "Banana",
+      "Flour",
+      "Sugar"
+    ],
+    "cost": 500000000,
+    "earnings": 1100
+  },
+  {
+    "name": "Banana Muffin",
+    "ingredients": [
+      "Banana",
+      "Flour",
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 500000000,
+    "earnings": 1200
+  },
+  {
+    "name": "Banana Donut",
+    "ingredients": [
+      "Banana",
+      "Flour",
+      "Sugar",
+      "Egg"
+    ],
+    "cost": 500000000,
+    "earnings": 1200
+  },
+  {
+    "name": "Banana Milkshake",
+    "ingredients": [
+      "Banana",
+      "Milk",
+      "Egg",
+      "Sugar"
+    ],
+    "cost": 500000000,
+    "earnings": 1200
+  },
+  {
+    "name": "Banana Cake",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Sugar",
+      "Banana"
+    ],
+    "cost": 500000000,
+    "earnings": 1400
+  },
+  {
+    "name": "Creamy Banana Soup",
+    "ingredients": [
+      "Potato",
+      "Milk",
+      "Banana"
+    ],
+    "cost": 500000000,
+    "earnings": 1100
+  },
+  {
+    "name": "Special Veggie Donut",
+    "ingredients": [
+      "Banana",
+      "Flour",
+      "Sugar",
+      "Egg",
+      "Lettuce",
+      "Carrot"
+    ],
+    "cost": 502100000,
+    "earnings": 1800
+  },
+  {
+    "name": "Banana Juice",
+    "ingredients": [
+      "Banana",
+      "Lemon"
+    ],
+    "cost": 530000000,
+    "earnings": 1300
+  },
+  {
+    "name": "Lemon Pancakes",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Lemon",
+      "Banana"
+    ],
+    "cost": 530000000,
+    "earnings": 1900
+  },
+  {
+    "name": "Banana Popsicle",
+    "ingredients": [
+      "Banana",
+      "Lemon",
+      "Sugar"
+    ],
+    "cost": 530000000,
+    "earnings": 1500
+  },
+  {
+    "name": "Banana Icecream",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Banana",
+      "Lemon"
+    ],
+    "cost": 530000000,
+    "earnings": 1700
+  },
+  {
+    "name": "Banana Pie",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Sugar",
+      "Banana",
+      "Lemon"
+    ],
+    "cost": 530000000,
+    "earnings": 1900
+  },
+  {
+    "name": "Banana Softserve",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Egg",
+      "Lemon",
+      "Banana"
+    ],
+    "cost": 530000000,
+    "earnings": 1900
+  },
+  {
+    "name": "Cookie Milkshake",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Sugar",
+      "Banana",
+      "Lemon"
+    ],
+    "cost": 530000000,
+    "earnings": 2100
+  },
+  {
+    "name": "Tropical Juice",
+    "ingredients": [
+      "Milk",
+      "Lemon",
+      "Banana",
+      "Carrot"
+    ],
+    "cost": 530100000,
+    "earnings": 1700
+  },
+  {
+    "name": "Yellow Softserve",
+    "ingredients": [
+      "Milk",
+      "Banana",
+      "Sugar",
+      "Carrot",
+      "Lemon",
+      "Egg"
+    ],
+    "cost": 530100000,
+    "earnings": 2200
+  },
+  {
+    "name": "Strawberry Banana Juice",
+    "ingredients": [
+      "Strawberry",
+      "Banana"
+    ],
+    "cost": 600000000,
+    "earnings": 1500
+  },
+  {
+    "name": "Strawberry Banana Pancakes",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Strawberry",
+      "Banana"
+    ],
+    "cost": 600000000,
+    "earnings": 2300
+  },
+  {
+    "name": "Strawberry Banana Muffin",
+    "ingredients": [
+      "Strawberry",
+      "Flour",
+      "Sugar",
+      "Milk",
+      "Banana"
+    ],
+    "cost": 600000000,
+    "earnings": 2300
+  },
+  {
+    "name": "Strawberry Banana Meringue",
+    "ingredients": [
+      "Strawberry",
+      "Sugar",
+      "Egg",
+      "Banana"
+    ],
+    "cost": 600000000,
+    "earnings": 2000
+  },
+  {
+    "name": "Strawberry Banana Donut",
+    "ingredients": [
+      "Strawberry",
+      "Flour",
+      "Sugar",
+      "Egg",
+      "Banana"
+    ],
+    "cost": 600000000,
+    "earnings": 2300
+  },
+  {
+    "name": "Strawberry Banana Cake",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Sugar",
+      "Strawberry",
+      "Banana"
+    ],
+    "cost": 600000000,
+    "earnings": 2500
+  },
+  {
+    "name": "Special Carrot Donut",
+    "ingredients": [
+      "Strawberry",
+      "Flour",
+      "Sugar",
+      "Egg",
+      "Banana",
+      "Carrot"
+    ],
+    "cost": 600100000,
+    "earnings": 2600
+  },
+  {
+    "name": "Swiss Roll",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Strawberry",
+      "Banana",
+      "Lemon"
+    ],
+    "cost": 630000000,
+    "earnings": 3100
+  },
+  {
+    "name": "Strawberry Banana Popsicle",
+    "ingredients": [
+      "Strawberry",
+      "Lemon",
+      "Sugar",
+      "Banana"
+    ],
+    "cost": 630000000,
+    "earnings": 2500
+  },
+  {
+    "name": "Strawberry Banana Icecream",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Egg",
+      "Strawberry",
+      "Banana",
+      "Lemon"
+    ],
+    "cost": 630000000,
+    "earnings": 3100
+  },
+  {
+    "name": "Detox Smoothie",
+    "ingredients": [
+      "Strawberry",
+      "Lettuce",
+      "Tomato",
+      "Lemon",
+      "Banana",
+      "Carrot"
+    ],
+    "cost": 632400000,
+    "earnings": 3500
+  },
+  {
+    "name": "Blueberry Juice",
+    "ingredients": [
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 1000
+  },
+  {
+    "name": "Blueberry Toast",
+    "ingredients": [
+      "Blueberry",
+      "Flour"
+    ],
+    "cost": 1000000000,
+    "earnings": 1200
+  },
+  {
+    "name": "Blueberry Milk",
+    "ingredients": [
+      "Milk",
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 1200
+  },
+  {
+    "name": "Blueberry Macaron",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 1600
+  },
+  {
+    "name": "Blueberry Candy",
+    "ingredients": [
+      "Sugar",
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 1200
+  },
+  {
+    "name": "Blueberry Churros",
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 1400
+  },
+  {
+    "name": "Blueberry Muffin",
+    "ingredients": [
+      "Blueberry",
+      "Flour",
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 1000000000,
+    "earnings": 1600
+  },
+  {
+    "name": "Blueberry Meringue",
+    "ingredients": [
+      "Blueberry",
+      "Sugar",
+      "Egg"
+    ],
+    "cost": 1000000000,
+    "earnings": 1400
+  },
+  {
+    "name": "Blueberry Donut",
+    "ingredients": [
+      "Blueberry",
+      "Flour",
+      "Sugar",
+      "Egg"
+    ],
+    "cost": 1000000000,
+    "earnings": 1600
+  },
+  {
+    "name": "Blueberry Milkshake",
+    "ingredients": [
+      "Blueberry",
+      "Milk",
+      "Egg",
+      "Sugar"
+    ],
+    "cost": 1000000000,
+    "earnings": 1600
+  },
+  {
+    "name": "Blueberry Cake",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Sugar",
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 1800
+  },
+  {
+    "name": "Blueberry Salad",
+    "ingredients": [
+      "Lettuce",
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 1300
+  },
+  {
+    "name": "Berry Lemonade",
+    "ingredients": [
+      "Lemon",
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 1600
+  },
+  {
+    "name": "Blueberry Popsicle",
+    "ingredients": [
+      "Blueberry",
+      "Lemon",
+      "Sugar"
+    ],
+    "cost": 1000000000,
+    "earnings": 1800
+  },
+  {
+    "name": "Blueberry Pie",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Sugar",
+      "Blueberry",
+      "Lemon"
+    ],
+    "cost": 1000000000,
+    "earnings": 2400
+  },
+  {
+    "name": "Blueberry Softserve",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Egg",
+      "Lemon",
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 2400
+  },
+  {
+    "name": "Special Carrot Pancakes",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Carrot",
+      "Lemon",
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 2700
+  },
+  {
+    "name": "Special Berry Pancakes",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Strawberry",
+      "Blueberry"
+    ],
+    "cost": 1100000000,
+    "earnings": 2700
+  },
+  {
+    "name": "French Toast",
+    "ingredients": [
+      "Strawberry",
+      "Flour",
+      "Sugar",
+      "Milk",
+      "Blueberry"
+    ],
+    "cost": 1100000000,
+    "earnings": 2700
+  },
+  {
+    "name": "Crepe Cake",
+    "ingredients": [
+      "Egg",
+      "Flour",
+      "Sugar",
+      "Blueberry",
+      "Strawberry",
+      "Milk"
+    ],
+    "cost": 1100000000,
+    "earnings": 3000
+  },
+  {
+    "name": "Berry Salad",
+    "ingredients": [
+      "Lettuce",
+      "Strawberry",
+      "Blueberry"
+    ],
+    "cost": 1100000000,
+    "earnings": 2200
+  },
+  {
+    "name": "Lemon Berry Juice",
+    "ingredients": [
+      "Strawberry",
+      "Blueberry",
+      "Lemon"
+    ],
+    "cost": 1100000000,
+    "earnings": 2500
+  },
+  {
+    "name": "Berry Swiss Roll",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Blueberry",
+      "Strawberry",
+      "Lemon"
+    ],
+    "cost": 1100000000,
+    "earnings": 3600
+  },
+  {
+    "name": "Mixberry Softserve",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Strawberry",
+      "Lemon",
+      "Blueberry"
+    ],
+    "cost": 1100000000,
+    "earnings": 3300
+  },
+  {
+    "name": "Blueberry Banana Milk",
+    "ingredients": [
+      "Blueberry",
+      "Banana",
+      "Milk"
+    ],
+    "cost": 1500000000,
+    "earnings": 2500
+  },
+  {
+    "name": "Blueberry Banana Popsicle",
+    "ingredients": [
+      "Banana",
+      "Lemon",
+      "Sugar",
+      "Blueberry"
+    ],
+    "cost": 1500000000,
+    "earnings": 3300
+  },
+  {
+    "name": "Strawberry Banana Swiss Roll",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Egg",
+      "Strawberry",
+      "Banana",
+      "Blueberry"
+    ],
+    "cost": 1600000000,
+    "earnings": 4500
+  },
+  {
+    "name": "Flan A La Mode",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Egg",
+      "Strawberry",
+      "Blueberry",
+      "Banana"
+    ],
+    "cost": 1600000000,
+    "earnings": 4500
+  },
+  {
+    "name": "Four-scoop Icecream Cone",
+    "ingredients": [
+      "Milk",
+      "Blueberry",
+      "Egg",
+      "Strawberry",
+      "Carrot",
+      "Banana"
+    ],
+    "cost": 1600000000,
+    "earnings": 4600
+  },
+  {
+    "name": "Special Popsicle",
+    "ingredients": [
+      "Strawberry",
+      "Banana",
+      "Blueberry",
+      "Carrot",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 1600000000,
+    "earnings": 4600
+  },
+  {
+    "name": "Mix Fruit Juice",
+    "ingredients": [
+      "Strawberry",
+      "Blueberry",
+      "Lemon",
+      "Banana"
+    ],
+    "cost": 1600000000,
+    "earnings": 4100
+  },
+  {
+    "name": "Birthday Cake",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Banana",
+      "Lemon",
+      "Strawberry",
+      "Blueberry"
+    ],
+    "cost": 1600000000,
+    "earnings": 5100
+  },
+  {
+    "name": "Special Softserve",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Strawberry",
+      "Banana",
+      "Lemon",
+      "Blueberry"
+    ],
+    "cost": 1600000000,
+    "earnings": 5100
+  },
+  {
+    "name": "Cocoa",
+    "ingredients": [
+      "Cacao"
+    ],
+    "cost": 10000000000,
+    "earnings": 3000
+  },
+  {
+    "name": "Chocolate Chip Bun",
+    "ingredients": [
+      "Cacao",
+      "Flour"
+    ],
+    "cost": 10000000000,
+    "earnings": 3600
+  },
+  {
+    "name": "Chocolate Milk",
+    "ingredients": [
+      "Cacao",
+      "Milk"
+    ],
+    "cost": 10000000000,
+    "earnings": 3600
+  },
+  {
+    "name": "Chocolate Bread",
+    "ingredients": [
+      "Cacao",
+      "Milk",
+      "Flour"
+    ],
+    "cost": 10000000000,
+    "earnings": 4200
+  },
+  {
+    "name": "Choco Stick",
+    "ingredients": [
+      "Cacao",
+      "Egg",
+      "Flour"
+    ],
+    "cost": 10000000000,
+    "earnings": 4200
+  },
+  {
+    "name": "Chocolate Trifle",
+    "ingredients": [
+      "Cacao",
+      "Egg",
+      "Milk"
+    ],
+    "cost": 10000000000,
+    "earnings": 4200
+  },
+  {
+    "name": "Brownies",
+    "ingredients": [
+      "Milk",
+      "Egg",
+      "Flour",
+      "Cacao"
+    ],
+    "cost": 10000000000,
+    "earnings": 4800
+  },
+  {
+    "name": "Chocolate Cookie",
+    "ingredients": [
+      "Cacao",
+      "Sugar",
+      "Flour"
+    ],
+    "cost": 10000000000,
+    "earnings": 4200
+  },
+  {
+    "name": "White Chocolate",
+    "ingredients": [
+      "Cacao",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 10000000000,
+    "earnings": 4200
+  },
+  {
+    "name": "Tiramisu",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Flour",
+      "Cacao"
+    ],
+    "cost": 10000000000,
+    "earnings": 4800
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "ingredients": [
+      "Cacao",
+      "Egg",
+      "Flour",
+      "Sugar"
+    ],
+    "cost": 10000000000,
+    "earnings": 4800
+  },
+  {
+    "name": "Chocolate Mousse",
+    "ingredients": [
+      "Cacao",
+      "Milk",
+      "Sugar",
+      "Egg"
+    ],
+    "cost": 10000000000,
+    "earnings": 4800
+  },
+  {
+    "name": "Chocolate Cake",
+    "ingredients": [
+      "Cacao",
+      "Egg",
+      "Flour",
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 10000000000,
+    "earnings": 5400
+  },
+  {
+    "name": "Chocolate Lemon",
+    "ingredients": [
+      "Cacao",
+      "Lemon"
+    ],
+    "cost": 10000000000,
+    "earnings": 4000
+  },
+  {
+    "name": "Cake Pop",
+    "ingredients": [
+      "Lemon",
+      "Sugar",
+      "Cacao",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 10000000000,
+    "earnings": 6000
+  },
+  {
+    "name": "Chocolate Strawberries",
+    "ingredients": [
+      "Cacao",
+      "Strawberry"
+    ],
+    "cost": 10100000000,
+    "earnings": 4200
+  },
+  {
+    "name": "Chocolate Banana",
+    "ingredients": [
+      "Cacao",
+      "Banana"
+    ],
+    "cost": 10500000000,
+    "earnings": 4500
+  },
+  {
+    "name": "Crepe",
+    "ingredients": [
+      "Cacao",
+      "Egg",
+      "Flour",
+      "Sugar",
+      "Blueberry",
+      "Strawberry"
+    ],
+    "cost": 11100000000,
+    "earnings": 9000
+  },
+  {
+    "name": "Lemon Tart",
+    "ingredients": [
+      "Lemon",
+      "Milk",
+      "Flour"
+    ],
+    "cost": 30000000,
+    "earnings": 361
+  },
+  {
+    "name": "Carrot Mousse",
+    "ingredients": [
+      "Carrot",
+      "Lemon",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 30100000,
+    "earnings": 528
+  },
+  {
+    "name": "Tomato Mousse",
+    "ingredients": [
+      "Tomato",
+      "Lemon",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 30300000,
+    "earnings": 584
+  },
+  {
+    "name": "Lettuce Mousse",
+    "ingredients": [
+      "Lettuce",
+      "Lemon",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 32000000,
+    "earnings": 648
+  },
+  {
+    "name": "Strawberry Tart",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Strawberry"
+    ],
+    "cost": 100000000,
+    "earnings": 706
+  },
+  {
+    "name": "Strawberry Mousse",
+    "ingredients": [
+      "Strawberry",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 100000000,
+    "earnings": 707
+  },
+  {
+    "name": "Strawberry Salad",
+    "ingredients": [
+      "Lettuce",
+      "Strawberry"
+    ],
+    "cost": 102000000,
+    "earnings": 720
+  },
+  {
+    "name": "Strawberry Lemonade",
+    "ingredients": [
+      "Strawberry",
+      "Lemon"
+    ],
+    "cost": 130000000,
+    "earnings": 960
+  },
+  {
+    "name": "Cut Banana",
+    "ingredients": [
+      "Banana"
+    ],
+    "cost": 500000000,
+    "earnings": 750
+  },
+  {
+    "name": "Banana Scrambled Egges",
+    "ingredients": [
+      "Banana",
+      "Egg"
+    ],
+    "cost": 500000000,
+    "earnings": 904
+  },
+  {
+    "name": "Banana Mousse",
+    "ingredients": [
+      "Banana",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 500000000,
+    "earnings": 1100
+  },
+  {
+    "name": "Banana Salad",
+    "ingredients": [
+      "Lettuce",
+      "Banana"
+    ],
+    "cost": 502000000,
+    "earnings": 1000
+  },
+  {
+    "name": "Strawberry Banana Jelly",
+    "ingredients": [
+      "Sugar",
+      "Banana",
+      "Strawberry"
+    ],
+    "cost": 600000000,
+    "earnings": 1800
+  },
+  {
+    "name": "BlueBerry Tart",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 1400
+  },
+  {
+    "name": "BlueBerry Mousse",
+    "ingredients": [
+      "Blueberry",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 1000000000,
+    "earnings": 1400
+  },
+  {
+    "name": "BlueBerry Lettuce Jelly",
+    "ingredients": [
+      "Sugar",
+      "Blueberry",
+      "Lemon",
+      "Lettuce"
+    ],
+    "cost": 1000000000,
+    "earnings": 2200
+  },
+  {
+    "name": "MixBerry Bowl",
+    "ingredients": [
+      "Sugar",
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 1800
+  },
+  {
+    "name": "MixBerry Jelly",
+    "ingredients": [
+      "Strawberry",
+      "Blueberry",
+      "Sugar"
+    ],
+    "cost": 1100000000,
+    "earnings": 2100
+  },
+  {
+    "name": "Banana Blueberry Bowl",
+    "ingredients": [
+      "Banana",
+      "Blueberry"
+    ],
+    "cost": 1500000000,
+    "earnings": 2100
+  },
+  {
+    "name": "Brigadeiro",
+    "ingredients": [
+      "Cacao",
+      "Sugar"
+    ],
+    "cost": 10000000000,
+    "earnings": 3600
+  },
+  {
+    "name": "Chocolate Lemon Bars",
+    "ingredients": [
+      "Milk",
+      "Egg",
+      "Lemon",
+      "Cacao"
+    ],
+    "cost": 10000000000,
+    "earnings": 5300
+  },
+  {
+    "name": "Chocolate Strawberries Bars",
+    "ingredients": [
+      "Milk",
+      "Egg",
+      "Strawberry",
+      "Cacao"
+    ],
+    "cost": 10100000000,
+    "earnings": 5600
+  },
+  {
+    "name": "Chocolate Blueberry Bars",
+    "ingredients": [
+      "Milk",
+      "Egg",
+      "Blueberry",
+      "Cacao"
+    ],
+    "cost": 11000000000,
+    "earnings": 6400
+  },
+  {
+    "name": "Chocolate Fondue",
+    "ingredients": [
+      "Banana",
+      "Lemon",
+      "Strawberry",
+      "Blueberry",
+      "Cacao"
+    ],
+    "cost": 11600000000,
+    "earnings": 10000
+  },
+  {
+    "name": "Grilled fish",
+    "ingredients": [
+      "Fish"
+    ],
+    "cost": 70000000000,
+    "earnings": 5000
+  },
+  {
+    "name": "Vongole Pasta",
+    "ingredients": [
+      "Fish",
+      "Flour"
+    ],
+    "cost": 70000000000,
+    "earnings": 6000
+  },
+  {
+    "name": "Garlic Shrimp",
+    "ingredients": [
+      "Fish",
+      "Milk"
+    ],
+    "cost": 70000000000,
+    "earnings": 6000
+  },
+  {
+    "name": "Takoyaki",
+    "ingredients": [
+      "Fish",
+      "Egg",
+      "Flour"
+    ],
+    "cost": 70000000000,
+    "earnings": 7000
+  },
+  {
+    "name": "Fish Candy",
+    "ingredients": [
+      "Fish",
+      "Sugar"
+    ],
+    "cost": 70000000000,
+    "earnings": 6000
+  },
+  {
+    "name": "Fish and Potatoes",
+    "ingredients": [
+      "Fish",
+      "Potato"
+    ],
+    "cost": 70000000000,
+    "earnings": 6000
+  },
+  {
+    "name": "Fish Pie",
+    "ingredients": [
+      "Fish",
+      "Potato",
+      "Milk",
+      "Flour",
+      "Egg"
+    ],
+    "cost": 70000000000,
+    "earnings": 9000
+  },
+  {
+    "name": "Acqua Pazza",
+    "ingredients": [
+      "Fish",
+      "Tomato"
+    ],
+    "cost": 70000000000,
+    "earnings": 6100
+  },
+  {
+    "name": "Squidink Pasta",
+    "ingredients": [
+      "Fish",
+      "Flour",
+      "Tomato"
+    ],
+    "cost": 70000000000,
+    "earnings": 7100
+  },
+  {
+    "name": "Moqueca",
+    "ingredients": [
+      "Fish",
+      "Milk",
+      "Tomato"
+    ],
+    "cost": 70000000000,
+    "earnings": 7100
+  },
+  {
+    "name": "Shrimp Tomato Cream Pasta",
+    "ingredients": [
+      "Fish",
+      "Flour",
+      "Milk",
+      "Tomato"
+    ],
+    "cost": 70000000000,
+    "earnings": 8100
+  },
+  {
+    "name": "Shrimp Salad",
+    "ingredients": [
+      "Fish",
+      "Lettuce"
+    ],
+    "cost": 70000000000,
+    "earnings": 6100
+  },
+  {
+    "name": "Stargazy Pie",
+    "ingredients": [
+      "Fish",
+      "Potato",
+      "Milk",
+      "Flour",
+      "Meat",
+      "Egg"
+    ],
+    "cost": 70000000000,
+    "earnings": 10400
+  },
+  {
+    "name": "Clam Chowder",
+    "ingredients": [
+      "Fish",
+      "Flour",
+      "Milk",
+      "Meat",
+      "Potato",
+      "Carrot"
+    ],
+    "cost": 70000000000,
+    "earnings": 10500
+  },
+  {
+    "name": "Grilled Fish witrh Lemon",
+    "ingredients": [
+      "Fish",
+      "Lemon"
+    ],
+    "cost": 70000000000,
+    "earnings": 6400
+  },
+  {
+    "name": "Jellied Eels",
+    "ingredients": [
+      "Fish",
+      "Sugar",
+      "Lemon"
+    ],
+    "cost": 70000000000,
+    "earnings": 7400
+  },
+  {
+    "name": "Fish and Chips",
+    "ingredients": [
+      "Fish",
+      "Potato",
+      "Flour",
+      "Egg",
+      "Lemon"
+    ],
+    "cost": 70000000000,
+    "earnings": 9600
+  },
+  {
+    "name": "Carpaccio",
+    "ingredients": [
+      "Fish",
+      "Lettuce",
+      "Lemon"
+    ],
+    "cost": 70000000000,
+    "earnings": 7600
+  },
+  {
+    "name": "Fish Chocolate",
+    "ingredients": [
+      "Fish",
+      "Cacao"
+    ],
+    "cost": 80000000000,
+    "earnings": 9600
+  },
+  {
+    "name": "Mermaid Fruit Platter",
+    "ingredients": [
+      "Fish",
+      "Cacao",
+      "Lemon",
+      "Strawberry",
+      "Banana",
+      "Blueberry"
+    ],
+    "cost": 81600000000,
+    "earnings": 21100
+  },
+  {
+    "name": "Golden SnowFlake Potato candy",
+    "ingredients": [
+      "Carrot",
+      "Potato",
+      "Sugar"
+    ],
+    "cost": 91000,
+    "earnings": 0
+  },
+  {
+    "name": "Christmas Stocking Meringue",
+    "ingredients": [
+      "Tomato",
+      "Egg",
+      "Sugar"
+    ],
+    "cost": 301300,
+    "earnings": 0
+  },
+  {
+    "name": "Snowman Meringue",
+    "ingredients": [
+      "Tomato",
+      "Egg",
+      "Sugar",
+      "Carrot"
+    ],
+    "cost": 381300,
+    "earnings": 0
+  },
+  {
+    "name": "Christmas Pinchos",
+    "ingredients": [
+      "Tomato",
+      "Potato",
+      "Carrot"
+    ],
+    "cost": 390000,
+    "earnings": 0
+  },
+  {
+    "name": "Tree Mashed Potatoes",
+    "ingredients": [
+      "Potato",
+      "Carrot",
+      "Milk",
+      "Tomato"
+    ],
+    "cost": 390000,
+    "earnings": 0
+  },
+  {
+    "name": "Red SnowFlake Potato Candy",
+    "ingredients": [
+      "Potato",
+      "Carrot",
+      "Sugar",
+      "Tomato"
+    ],
+    "cost": 391000,
+    "earnings": 0
+  },
+  {
+    "name": "Star Veggie Donut",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Sugar",
+      "Lettuce",
+      "Carrot"
+    ],
+    "cost": 2100000,
+    "earnings": 0
+  },
+  {
+    "name": "Green Snowflake Potato Candy",
+    "ingredients": [
+      "Potato",
+      "Carrot",
+      "Sugar",
+      "Lettuce"
+    ],
+    "cost": 2100000,
+    "earnings": 0
+  },
+  {
+    "name": "Candy Cane",
+    "ingredients": [
+      "Tomato",
+      "Lettuce",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 2300000,
+    "earnings": 0
+  },
+  {
+    "name": "Wreath Salad",
+    "ingredients": [
+      "Tomato",
+      "Carrot",
+      "Milk",
+      "Lettuce"
+    ],
+    "cost": 2400000,
+    "earnings": 0
+  },
+  {
+    "name": "Tree Veggie Cupcake",
+    "ingredients": [
+      "Lettuce",
+      "Flour",
+      "Carrot",
+      "Milk",
+      "Tomato"
+    ],
+    "cost": 2400000,
+    "earnings": 0
+  },
+  {
+    "name": "Tree Veggie Mashed Potatoes",
+    "ingredients": [
+      "Potato",
+      "Carrot",
+      "Milk",
+      "Tomato",
+      "Lettuce"
+    ],
+    "cost": 2400000,
+    "earnings": 358
+  },
+  {
+    "name": "Cheese Fondue",
+    "ingredients": [
+      "Meat",
+      "Milk",
+      "Potato",
+      "Carrot"
+    ],
+    "cost": 10100000,
+    "earnings": 0
+  },
+  {
+    "name": "Reindeer CornDog",
+    "ingredients": [
+      "Meat",
+      "Flour",
+      "Milk",
+      "Tomato"
+    ],
+    "cost": 10300000,
+    "earnings": 0
+  },
+  {
+    "name": "Reindeer Hamburger Steak",
+    "ingredients": [
+      "Meat",
+      "Flour",
+      "Milk",
+      "Tomato",
+      "Potato",
+      "Carrot"
+    ],
+    "cost": 10400000,
+    "earnings": 0
+  },
+  {
+    "name": "Chicken on Mashed Potatoes",
+    "ingredients": [
+      "Meat",
+      "Potato",
+      "Milk",
+      "Lettuce"
+    ],
+    "cost": 12000000,
+    "earnings": 0
+  },
+  {
+    "name": "Roast Chicken Platter",
+    "ingredients": [
+      "Meat",
+      "Potato",
+      "Carrot",
+      "Lettuce"
+    ],
+    "cost": 12100000,
+    "earnings": 0
+  },
+  {
+    "name": "Veggie bacon Quiche",
+    "ingredients": [
+      "Meat",
+      "Flour",
+      "Carrot",
+      "Potato",
+      "Milk",
+      "Lettuce"
+    ],
+    "cost": 12100000,
+    "earnings": 0
+  },
+  {
+    "name": "Wreath Cobb Salad",
+    "ingredients": [
+      "Tomato",
+      "Egg",
+      "Meat",
+      "Lettuce"
+    ],
+    "cost": 12300000,
+    "earnings": 0
+  },
+  {
+    "name": "Christmas Tree Pasta",
+    "ingredients": [
+      "Meat",
+      "Flour",
+      "Potato",
+      "Carrot",
+      "Lettuce",
+      "Tomato"
+    ],
+    "cost": 12400000,
+    "earnings": 0
+  },
+  {
+    "name": "Star Lemon donuts",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Sugar",
+      "Lemon",
+      "Tomato"
+    ],
+    "cost": 30300000,
+    "earnings": 0
+  },
+  {
+    "name": "Christmas Veggie donuts",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Sugar",
+      "Lemon",
+      "Tomato",
+      "Lettuce"
+    ],
+    "cost": 32300000,
+    "earnings": 0
+  },
+  {
+    "name": "Strawberry Tree",
+    "ingredients": [
+      "Strawberry",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 100000000,
+    "earnings": 0
+  },
+  {
+    "name": "Santa mini Pancakes",
+    "ingredients": [
+      "Strawberry",
+      "Milk",
+      "Egg",
+      "Flour",
+      "Carrot"
+    ],
+    "cost": 100100000,
+    "earnings": 0
+  },
+  {
+    "name": "Strawberry Chesse Cake",
+    "ingredients": [
+      "Strawberry",
+      "Lettuce",
+      "Flour",
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 102000000,
+    "earnings": 1100
+  },
+  {
+    "name": "Star Strawberry Donuts",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Sugar",
+      "Lemon",
+      "Strawberry"
+    ],
+    "cost": 130000000,
+    "earnings": 0
+  },
+  {
+    "name": "Banana Tree",
+    "ingredients": [
+      "Banana",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 500000000,
+    "earnings": 0
+  },
+  {
+    "name": "Snowman bread",
+    "ingredients": [
+      "Banana",
+      "Carrot",
+      "Tomato",
+      "Flour",
+      "Milk"
+    ],
+    "cost": 500400000,
+    "earnings": 0
+  },
+  {
+    "name": "Tree Banana Strawberry Cupcake",
+    "ingredients": [
+      "Lettuce",
+      "Flour",
+      "Banana",
+      "Milk",
+      "Strawberry"
+    ],
+    "cost": 602000000,
+    "earnings": 0
+  },
+  {
+    "name": "Tree Blueberry Cupcake",
+    "ingredients": [
+      "Lettuce",
+      "Flour",
+      "Milk",
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 0
+  },
+  {
+    "name": "Purple Candy Cane",
+    "ingredients": [
+      "Blueberry",
+      "Lettuce",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 1000000000,
+    "earnings": 0
+  },
+  {
+    "name": "Blue Lemon Tree",
+    "ingredients": [
+      "Blueberry",
+      "Lemon",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 1000000000,
+    "earnings": 0
+  },
+  {
+    "name": "Star Blueberry Donuts",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Sugar",
+      "Banana",
+      "Blueberry"
+    ],
+    "cost": 1500000000,
+    "earnings": 3100
+  },
+  {
+    "name": "Reindeer Chocolate",
+    "ingredients": [
+      "Cacao",
+      "Flour",
+      "Tomato"
+    ],
+    "cost": 10000000000,
+    "earnings": 4200
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "ingredients": [
+      "Flour",
+      "Cacao",
+      "Sugar",
+      "Lettuce",
+      "Tomato"
+    ],
+    "cost": 10000000000,
+    "earnings": 0
+  },
+  {
+    "name": "Yule Log",
+    "ingredients": [
+      "Cacao",
+      "Strawberry",
+      "Lettuce",
+      "Flour",
+      "Sugar",
+      "Milk"
+    ],
+    "cost": 10100000000,
+    "earnings": 7200
+  },
+  {
+    "name": "Gingerbread House",
+    "ingredients": [
+      "Flour",
+      "Cacao",
+      "Sugar",
+      "Milk",
+      "Banana"
+    ],
+    "cost": 10500000000,
+    "earnings": 6700
+  },
+  {
+    "name": "Christmas Tree Cake",
+    "ingredients": [
+      "Flour",
+      "Cacao",
+      "Sugar",
+      "Milk",
+      "Banana",
+      "Lettuce"
+    ],
+    "cost": 10500000000,
+    "earnings": 7700
+  },
+  {
+    "name": "Banana Split",
+    "ingredients": [
+      "Milk",
+      "Cacao",
+      "Sugar",
+      "Strawberry",
+      "Banana"
+    ],
+    "cost": 10600000000,
+    "earnings": 7600
+  },
+  {
+    "name": "Christmas Tree Chocolate",
+    "ingredients": [
+      "Cacao",
+      "Lettuce",
+      "Lemon",
+      "Blueberry",
+      "Strawberry",
+      "Sugar"
+    ],
+    "cost": 11100000000,
+    "earnings": 9800
+  },
+  {
+    "name": "Caviar Blinis",
+    "ingredients": [
+      "Fish",
+      "Flour",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 70000000000,
+    "earnings": 8000
+  },
+  {
+    "name": "Lobster with Veggie Mash Potato",
+    "ingredients": [
+      "Fish",
+      "Lettuce",
+      "Milk",
+      "Potato"
+    ],
+    "cost": 70000000000,
+    "earnings": 0
+  },
+  {
+    "name": "Lobster Platter",
+    "ingredients": [
+      "Fish",
+      "Lettuce",
+      "Carrot",
+      "Potato"
+    ],
+    "cost": 70000000000,
+    "earnings": 8200
+  },
+  {
+    "name": "Caviar mousses",
+    "ingredients": [
+      "Fish",
+      "Lettuce",
+      "Tomato",
+      "Milk",
+      "Egg"
+    ],
+    "cost": 70000000000,
+    "earnings": 9200
+  },
+  {
+    "name": "Chessy Hamburger Steak",
+    "ingredients": [
+      "Meat",
+      "Milk",
+      "Tomato"
+    ],
+    "cost": 10300000,
+    "earnings": 0
+  },
+  {
+    "name": "Strawberry Cheesecake",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Sugar",
+      "Strawberry",
+      "Lettuce"
+    ],
+    "cost": 102000000,
+    "earnings": 0
+  },
+  {
+    "name": "Lobster with Veggie Mashed Potato",
+    "ingredients": [
+      "Fish",
+      "Lettuce",
+      "Milk",
+      "Potato"
+    ],
+    "cost": 70000000000,
+    "earnings": 8100
+  },
+  {
+    "name": "Blueberry Lemon Tree",
+    "ingredients": [
+      "Blueberry",
+      "Lemon",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 1000000000,
+    "earnings": 2100
+  },
+  {
+    "name": "Coffee",
+    "ingredients": [
+      "Bean"
+    ],
+    "cost": 150000000000,
+    "earnings": 6500
+  },
+  {
+    "name": "Beans on Toast",
+    "ingredients": [
+      "Bean",
+      "Flour"
+    ],
+    "cost": 150000000000,
+    "earnings": 7800
+  },
+  {
+    "name": "Cappuccino",
+    "ingredients": [
+      "Bean",
+      "Milk"
+    ],
+    "cost": 150000000000,
+    "earnings": 7800
+  },
+  {
+    "name": "Caramel Macchiato",
+    "ingredients": [
+      "Bean",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 150000000000,
+    "earnings": 9100
+  },
+  {
+    "name": "Dorayaki",
+    "ingredients": [
+      "Bean",
+      "Sugar",
+      "Flour",
+      "Egg"
+    ],
+    "cost": 150000000000,
+    "earnings": 10400
+  },
+  {
+    "name": "Anpan",
+    "ingredients": [
+      "Sugar",
+      "Flour",
+      "Milk",
+      "Egg",
+      "Bean"
+    ],
+    "cost": 150000000000,
+    "earnings": 11700
+  },
+  {
+    "name": "BeanCurry with Naan",
+    "ingredients": [
+      "Bean",
+      "Tomato",
+      "Flour"
+    ],
+    "cost": 150000000000,
+    "earnings": 9200
+  },
+  {
+    "name": "Chickpea Salad",
+    "ingredients": [
+      "Bean",
+      "Lettuce",
+      "Tomato"
+    ],
+    "cost": 150000000000,
+    "earnings": 9300
+  },
+  {
+    "name": "English Breakfast",
+    "ingredients": [
+      "Bean",
+      "Meat",
+      "Tomato",
+      "Potato",
+      "Egg",
+      "Flour"
+    ],
+    "cost": 150000000000,
+    "earnings": 13600
+  },
+  {
+    "name": "Strawberry Latte",
+    "ingredients": [
+      "Bean",
+      "Strawberry",
+      "Milk"
+    ],
+    "cost": 150100000000,
+    "earnings": 9800
+  },
+  {
+    "name": "Frozen Strawberry Latte",
+    "ingredients": [
+      "Bean",
+      "Strawberry",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 150100000000,
+    "earnings": 11200
+  },
+  {
+    "name": "Frozen Banana Latte",
+    "ingredients": [
+      "Bean",
+      "Banana",
+      "Milk"
+    ],
+    "cost": 150500000000,
+    "earnings": 10200
+  },
+  {
+    "name": "Frozen Blueberry Latte",
+    "ingredients": [
+      "Bean",
+      "Blueberry",
+      "Milk"
+    ],
+    "cost": 151000000000,
+    "earnings": 10500
+  },
+  {
+    "name": "Dubai Chocolate",
+    "ingredients": [
+      "Bean",
+      "Cacao"
+    ],
+    "cost": 160000000000,
+    "earnings": 11400
+  },
+  {
+    "name": "Caffe Mocha",
+    "ingredients": [
+      "Bean",
+      "Cacao",
+      "Milk"
+    ],
+    "cost": 160000000000,
+    "earnings": 13300
+  },
+  {
+    "name": "Chocolate Frappe",
+    "ingredients": [
+      "Bean",
+      "Cacao",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 160000000000,
+    "earnings": 15200
+  },
+  {
+    "name": "BearCup Banana Chocolate Latte",
+    "ingredients": [
+      "Bean",
+      "Cacao",
+      "Banana",
+      "Milk",
+      "Sugar"
+    ],
+    "cost": 160500000000,
+    "earnings": 18500
+  },
+  {
+    "name": "Miso Soup",
+    "ingredients": [
+      "Bean",
+      "Fish"
+    ],
+    "cost": 220000000000,
+    "earnings": 13800
+  },
+  {
+    "name": "Udon",
+    "ingredients": [
+      "Bean",
+      "Fish",
+      "Flour",
+      "Egg"
+    ],
+    "cost": 220000000000,
+    "earnings": 18400
+  },
+  {
+    "name": "Ramen",
+    "ingredients": [
+      "Bean",
+      "Fish",
+      "Flour",
+      "Egg",
+      "Meat"
+    ],
+    "cost": 220000000000,
+    "earnings": 21100
+  },
+  {
+    "name": "BBQ Potato Chips",
+    "ingredients": [
+      "Potato",
+      "Sugar",
+      "Tomato"
+    ],
+    "cost": 311000,
+    "earnings": 106
+  },
+  {
+    "name": "Bean Salad",
+    "ingredients": [
+      "Bean",
+      "Lettuce"
+    ],
+    "cost": 150000000000,
+    "earnings": 7900
+  },
+  {
+    "name": "Blueberry Cheesecake",
+    "ingredients": [
+      "Lettuce",
+      "Milk",
+      "Flour",
+      "Sugar",
+      "Blueberry"
+    ],
+    "cost": 1000000000,
+    "earnings": 2000
+  },
+  {
+    "name": "Carrot Cheesecake",
+    "ingredients": [
+      "Sugar",
+      "Flour",
+      "Milk",
+      "Carrot",
+      "Potato"
+    ],
+    "cost": 91000,
+    "earnings": 79
+  },
+  {
+    "name": "Carrot Omelette",
+    "ingredients": [
+      "Tomato",
+      "Egg",
+      "Milk",
+      "Carrot"
+    ],
+    "cost": 380300,
+    "earnings": 144
+  },
+  {
+    "name": "Chef Salad",
+    "ingredients": [
+      "Lettuce",
+      "Tomato",
+      "Egg",
+      "Potato",
+      "Carrot"
+    ],
+    "cost": 2400000,
+    "earnings": 360
+  },
+  {
+    "name": "Chocolate Banana Parfait",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Cacao",
+      "Banana"
+    ],
+    "cost": 10500000000,
+    "earnings": 6000
+  },
+  {
+    "name": "Chocolate Hummus with Anchovies",
+    "ingredients": [
+      "Bean",
+      "Cacao",
+      "Fish",
+      "Blueberry",
+      "Strawberry",
+      "Banana"
+    ],
+    "cost": 231600000000,
+    "earnings": 33500
+  },
+  {
+    "name": "Croissant Breakfast Plate",
+    "ingredients": [
+      "Carrot",
+      "Tomato",
+      "Lettuce",
+      "Meat",
+      "Flour",
+      "Egg"
+    ],
+    "cost": 12400000,
+    "earnings": 778
+  },
+  {
+    "name": "Fish Burger",
+    "ingredients": [
+      "Flour",
+      "Lettuce",
+      "Fish",
+      "Egg"
+    ],
+    "cost": 70000000000,
+    "earnings": 8200
+  },
+  {
+    "name": "Ham and Egg Croissant",
+    "ingredients": [
+      "Meat",
+      "Lettuce",
+      "Flour",
+      "Egg"
+    ],
+    "cost": 12000000,
+    "earnings": 486
+  },
+  {
+    "name": "Lemon and Salt Potato Chips",
+    "ingredients": [
+      "Potato",
+      "Lemon"
+    ],
+    "cost": 30000000,
+    "earnings": 374
+  },
+  {
+    "name": "Lemon Egg",
+    "ingredients": [
+      "Lemon",
+      "Egg"
+    ],
+    "cost": 30000000,
+    "earnings": 364
+  },
+  {
+    "name": "Lemon Pepper Chicken",
+    "ingredients": [
+      "Lemon",
+      "Meat"
+    ],
+    "cost": 40000000,
+    "earnings": 600
+  },
+  {
+    "name": "Lemon Potato",
+    "ingredients": [
+      "Lemon",
+      "Flour",
+      "Potato"
+    ],
+    "cost": 30000000,
+    "earnings": 438
+  },
+  {
+    "name": "Pepperoni Pizza",
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Tomato",
+      "Milk",
+      "Meat"
+    ],
+    "cost": 10300000,
+    "earnings": 481
+  },
+  {
+    "name": "Pistachio Macaron",
+    "ingredients": [
+      "Bean",
+      "Flour",
+      "Milk",
+      "Blueberry",
+      "Strawberry",
+      "Egg"
+    ],
+    "cost": 151100000000,
+    "earnings": 16000
+  },
+  {
+    "name": "Potato Cheesecake",
+    "ingredients": [
+      "Potato",
+      "Milk",
+      "Flour",
+      "Sugar",
+      "Lemon"
+    ],
+    "cost": 30000000,
+    "earnings": 574
+  },
+  {
+    "name": "Potato Salad Croissant",
+    "ingredients": [
+      "Tomato",
+      "Lettuce",
+      "Flour",
+      "Potato"
+    ],
+    "cost": 2300000,
+    "earnings": 277
+  },
+  {
+    "name": "Seafood Breakfast Plate",
+    "ingredients": [
+      "Strawberry",
+      "Blueberry",
+      "Banana",
+      "Fish",
+      "Flour",
+      "Milk"
+    ],
+    "cost": 71600000000,
+    "earnings": 14500
+  },
+  {
+    "name": "Seafood Pizza",
+    "ingredients": [
+      "Flour",
+      "Lettuce",
+      "Potato",
+      "Tomato",
+      "Milk",
+      "Fish"
+    ],
+    "cost": 70000000000,
+    "earnings": 10300
+  },
+  {
+    "name": "Strawberry Parfait",
+    "ingredients": [
+      "Egg",
+      "Milk",
+      "Lemon",
+      "Strawberry"
+    ],
+    "cost": 130000000,
+    "earnings": 1300
+  },
+  {
+    "name": "Vegetable Cheesecake",
+    "ingredients": [
+      "Lettuce",
+      "Milk",
+      "Flour",
+      "Sugar",
+      "Carrot",
+      "Potato"
+    ],
+    "cost": 2100000,
+    "earnings": 288
+  },
+  {
+    "name": "Vegetable Curry with Naan",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Potato",
+      "Tomato",
+      "Carrot",
+      "Lettuce"
+    ],
+    "cost": 2400000,
+    "earnings": 400
+  },
+  {
+    "name": "Yogurt Bowl",
+    "ingredients": [
+      "Milk",
+      "Blueberry",
+      "Strawberry",
+      "Banana"
+    ],
+    "cost": 1600000000,
+    "earnings": 3600
+  }
+]

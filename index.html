@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- =====================================================
+         META
+         Defines character encoding and responsive behavior.
+         ===================================================== -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Page title -->
+    <title>Recipe Terminal</title>
+
+    <!-- Main stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!-- =====================================================
+         BACKGROUND
+         Decorative blurred background layer.
+         ===================================================== -->
+    <div class="bg"></div>
+
+
+    <!-- =====================================================
+         APPLICATION SHELL
+         Outer spacing container for the main window.
+         ===================================================== -->
+    <div class="app-shell">
+
+        <!-- =====================================================
+             MAIN WINDOW
+             Glass-style container holding all UI elements.
+             ===================================================== -->
+        <main class="window">
+
+            <!-- Header with title and live indicator -->
+            <header class="title-bar">
+                <span>🍳 Craft Food (Roblox) Recipes</span>
+                <div class="status">LIVE</div>
+            </header>
+
+            <!-- Search input for filtering recipes -->
+            <input
+                id="search"
+                type="text"
+                placeholder="Search recipes..."
+                autocomplete="off"
+            >
+
+            <!-- Ingredient filter chips -->
+            <section class="filters">
+                <h4>Ingredients</h4>
+                <div id="ingredientFilters" class="chip-wrap"></div>
+            </section>
+
+            <!-- Recipe grid (populated via app.js) -->
+            <section id="grid" class="grid"></section>
+
+        </main>
+    </div>
+
+
+    <!-- =====================================================
+         FLOATING CENTER BAR
+         Contains developer watermark and game link.
+         ===================================================== -->
+    <div class="floating-bar">
+
+        <!-- Developer link -->
+        <a
+            href="https://github.com/ravionry"
+            target="_blank"
+            class="floating-watermark"
+        >
+            developed by <strong>@ravionry</strong>
+        </a>
+
+        <!-- Game link -->
+        <a
+            href="https://www.roblox.com/games/102574559184919/Craft-Food"
+            target="_blank"
+            class="floating-play"
+        >
+            🎮 Play Game
+        </a>
+
+    </div>
+
+
+    <!-- =====================================================
+         SCRIPT
+         Main application logic.
+         ===================================================== -->
+    <script src="app.js"></script>
+
+</body>
+</html>
